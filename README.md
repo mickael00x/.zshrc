@@ -3,7 +3,7 @@
 #ZSH_THEME="spaceship"
 ###https://github.com/spaceship-prompt/spaceship-prompt
 
-![image](https://user-images.githubusercontent.com/48830841/172323022-3f5382b3-697a-4163-8b28-77ac910ca3ed.png)
+[![image](https://user-images.githubusercontent.com/48830841/172323022-3f5382b3-697a-4163-8b28-77ac910ca3ed.png)](https://user-images.githubusercontent.com/10276208/36086434-5de52ace-0ff2-11e8-8299-c67f9ab4e9bd.gif)
 
 # List of plugins
   
@@ -18,7 +18,7 @@
 
   # zsh-navigation-tools
   ### https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/zsh-navigation-tools
-  ![image](https://user-images.githubusercontent.com/48830841/172322784-83c4ec1b-0dba-466c-86a1-936c7d707391.png)
+  [![image](https://user-images.githubusercontent.com/48830841/172322784-83c4ec1b-0dba-466c-86a1-936c7d707391.png)](https://camo.githubusercontent.com/fa0b97a6d465469819a5a23dc4d7d09b05a2fe7b8b325d220c933dd32c59f4ab/68747470733a2f2f696d616765736861636b2e636f6d2f612f696d673633332f393930352f577a6653646c2e676966)
   Videos:
   - https://youtu.be/QwZ8IJEgXRE
   - https://youtu.be/DN9QqssAYB8
